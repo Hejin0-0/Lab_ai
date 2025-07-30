@@ -1,0 +1,39 @@
+# macOS 시스템 파일
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+Icon?
+.Spotlight-V100
+.Trashes
+
+# Windows 시스템 파일
+Thumbs.db
+ehthumbs.db
+
+# Node.js 관련
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional Next.js build output
+.next/
+
+# 환경변수 파일
+.env
+.env.local
+.env.*.local
+
+# IDE & 에디터 설정 파일
+.vscode/
+.idea/
+*.swp
