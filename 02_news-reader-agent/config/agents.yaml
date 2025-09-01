@@ -1,3 +1,4 @@
+
 news_hunter_agent:
   role: >
     Senior News Intelligence Specialist
@@ -17,6 +18,7 @@ news_hunter_agent:
     always cross-reference information from multiple outlets before considering it reliable.
   verbose: true
   inject_date: true
+  llm: openai/gpt-5-nano
 
 summarizer_agent:
   role: >
@@ -39,7 +41,7 @@ summarizer_agent:
     sources into coherent narratives.
   verbose: true
   inject_date: true
-  llm: openai/o3
+  llm: openai/gpt-5-nano
 
 curator_agent:
   role: >
@@ -65,3 +67,4 @@ curator_agent:
     information with proper context and analysis.
   verbose: true
   inject_date: true
+  llm: openai/gpt-5-nano
