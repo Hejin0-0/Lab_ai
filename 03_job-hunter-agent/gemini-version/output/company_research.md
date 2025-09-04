@@ -1,0 +1,1 @@
+I am unable to proceed with the research. The `job` field in the provided context is null, indicating that no specific job or company information was given. To perform the requested company research and interview preparation, I need the company name and job details for the "ChosenJob." Please provide this information so I can begin.
